@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UFy31AU+T84aX60rRu4qS15HF9UdreBNzfWvkZM9PsMTYiW41c+eQrVS1Tta20gM3EItTUzu9djzXj0CbN71dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\03887Z744\\SimpleMvcApp\\SimpleMvcApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\03887Z744\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
